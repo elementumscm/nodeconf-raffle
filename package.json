@@ -1,0 +1,26 @@
+{
+  "name": "nodeconf-raffle",
+  "version": "1.0.0",
+  "description": "Code used to do the raffle in the NodeConf Ar 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elementumscm/nodeconf-6.git"
+  },
+  "keywords": [
+    "nodeconf",
+    "elementum",
+    "challenge",
+    "elementumchallenge",
+    "2017"
+  ],
+  "author": "Elementum SCM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elementumscm/nodeconf-6/issues"
+  },
+  "homepage": "https://github.com/elementumscm/nodeconf-6#readme"
+}
