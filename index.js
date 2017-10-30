@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 const https = require('https');
 
-const API = process.env.API || 'http://localhost:3000/users';
+const API = process.env.API || 'https://localhost:3000/users';
 
 const startRaffle = (winners) => {
   const winnersCount = winners.length;

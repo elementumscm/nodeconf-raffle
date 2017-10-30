@@ -4,6 +4,7 @@
   "description": "Code used to do the raffle in the NodeConf Ar 2017",
   "main": "index.js",
   "scripts": {
+    "start": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/elementumscm/nodeconf-6/issues"
   },
-  "homepage": "https://github.com/elementumscm/nodeconf-6#readme"
+  "homepage": "https://github.com/elementumscm/nodeconf-6#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "https": "^1.0.0"
+  }
 }
